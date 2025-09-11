@@ -103,4 +103,12 @@ def prob_5():
         print(f"Index: {i}\tData: {orig_list[i]}")
         i += 1    
 
-prob_5()
+def prob_6():
+    orig_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    i = 0
+
+    while(i < len(orig_list)):
+        print(f"\tData: {orig_list[i]}")
+        i += 1    
+
+prob_6()
