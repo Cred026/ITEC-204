@@ -102,3 +102,5 @@ def prob_5():
     while(i < len(orig_list)):
         print(f"Index: {i}\tData: {orig_list[i]}")
         i += 1    
+
+prob_5()
