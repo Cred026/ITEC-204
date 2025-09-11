@@ -103,4 +103,4 @@ def prob_5():
         print(f"Index: {i}\tData: {orig_list[i]}")
         i += 1    
 
-prob_4()
+prob_5()
