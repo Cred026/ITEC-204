@@ -140,4 +140,4 @@ class Post:
         self.content = content
         self.embedding = embedding
 
-main()
+main()  
